@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_0377_jpeg.rf.977b4446ee8ffede398803c535d153d7.jpg</filename>
+	<path>IMG_0377_jpeg.rf.977b4446ee8ffede398803c535d153d7.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1072</width>
+		<height>1784</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>1073</xmax>
+			<ymin>1</ymin>
+			<ymax>1785</ymax>
+		</bndbox>
+	</object>
+</annotation>
